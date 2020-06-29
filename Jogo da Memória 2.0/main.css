@@ -51,7 +51,7 @@ main{
     background: url("img/0.png");
     transform: rotateY(-180deg);
 }
-.fente.virado{
+.frente.virado{
     transform: rotateY(0deg);
 }
 .carta:hover{
