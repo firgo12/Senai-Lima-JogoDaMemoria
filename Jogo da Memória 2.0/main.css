@@ -48,7 +48,7 @@ main{
     transform: rotateY(180deg);
 }
 .frente{
-    background: url("img/0.png");
+    
     transform: rotateY(-180deg);
 }
 .frente.virado{
@@ -56,5 +56,7 @@ main{
 }
 .carta:hover{
     box-shadow: 0 0 10px rgb(151, 194, 103);
-
+}
+.rosto.virado.acertos{
+    box-shadow: 0 0 10px rgb(37, 214, 13);
 }
