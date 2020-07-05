@@ -73,9 +73,7 @@
 
                     cartasviradas = [];
 
-                    if(acertos == 8){
-                        
-                    }
+                   
                 }
             }
         }
